@@ -1,3 +1,5 @@
+***Important Notice:** *As of November 2019, this repository will be no longer maintained. It is forked into the official and dedicated [CityJSON](https://github.com/cityjson) github repository, where it will be maintained and updated by the TU Delft's [3D geoinformation group](https://3d.bk.tudelft.nl/) and me.*
+
 # Blender-CityJSON-Plugin
 
 A Blender plugin to import 3D city models encoded in the [CityJSON](http://cityjson.org) format. All building attributes and faces semantics are stored and can be accesed via Blender's graphic user interface.
