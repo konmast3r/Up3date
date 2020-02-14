@@ -1,4 +1,4 @@
-***Important Notice:** *As of November 2019, Up3date will be no longer maintained. It is forked into the official and dedicated [CityJSON github repository](https://github.com/cityjson), where it will be maintained and updated by the TU Delft's [3D geoinformation group](https://3d.bk.tudelft.nl/) and me.*
+***Important Notice:** *As of November 2019, **Up3date** will be no longer maintained. It is forked into the official and dedicated [CityJSON github repository](https://github.com/cityjson), where it will be maintained and updated by the TU Delft's [3D geoinformation group](https://3d.bk.tudelft.nl/) and me.*
 
 # Up3date
 
