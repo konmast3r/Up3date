@@ -2,7 +2,7 @@
 
 # Up3date
 
-A Blender plugin to import 3D city models encoded in the [CityJSON](http://cityjson.org) format. All building attributes and faces semantics are stored and can be accesed via Blender's graphic user interface.
+A Blender plugin to import/export 3D city models encoded in the [CityJSON](http://cityjson.org) format. All building attributes and faces semantics are stored and can be accesed via Blender's graphic user interface.
 
 ## Requirements
 
