@@ -14,7 +14,7 @@ You can find sample datasets at the official [CityJSON](https://www.cityjson.org
 
 Trying to import really big datasets such as `New York` will take several minutes because of the amount of information contained. With the rest sample CityJSON files everything should work noticeably faster. Depending on your machine, it could take some seconds up to few minutes minute to import the 3D City Model. 
 
-## How to install and use the parser
+## How to install and use the plugin
 
 1. Download the `CityJSON_Blender_parser.py` add-on and install it locally to Blender.Run `Blender` and go to `Edit > Preferences >Add-ons`, and `Install`. Navigate to the directory where the `CityJSON_Blender_parser.py` is located select it and click `Install Add-on from File...`
 
